@@ -199,7 +199,7 @@ export default function MemoForm({
                   height={300}
                   preview="edit"
                   hideToolbar={false}
-                  visibleDragBar={false}
+                  visibleDragbar={false}
                 />
               </div>
             </div>
