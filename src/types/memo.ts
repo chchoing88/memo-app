@@ -4,8 +4,8 @@ export interface Memo {
   content: string
   category: string
   tags: string[]
-  createdAt: string
-  updatedAt: string
+  created_at: string
+  updated_at: string
 }
 
 export interface MemoFormData {
